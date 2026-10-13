@@ -1,2 +1,2 @@
 # LSEI
-Projectte de LSE I 
+Aquest projecte tracta de dissenyar i implementar un controlador de motor ESR
